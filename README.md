@@ -18,7 +18,7 @@
 †Corresponding author
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-todo-b31b1b.svg?logo=arxiv)](https://todo)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.09723-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2608.09723)
 
 </div>
 
@@ -31,7 +31,7 @@
 </h3>
 
 ## Updates
-- [08/2026] [arXiv paper](https://todo) released.
+- [08/2026] [arXiv paper](https://arxiv.org/abs/2608.09723) released.
 
 ## Introduction
 
@@ -125,7 +125,15 @@ bash scripts/venus_bench_gd/run_venus_refusal_eval.sh
 If you find this work useful for your research, please kindly cite our paper:
 
 ```
-todo
+@misc{zhang2026lookagain,
+      title={LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection}, 
+      author={Renshan Zhang and Haoyang Meng and Yixiao He and Rui Shao and April Hua Liu and Liqiang Nie},
+      year={2026},
+      eprint={2608.09723},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.09723}, 
+}
 ```
 
 
