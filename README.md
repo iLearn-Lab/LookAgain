@@ -19,6 +19,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.09723-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2608.09723)
+[![LookAgain-8B](https://img.shields.io/badge/HF_Model-LookAgain_8B-yellow)](https://huggingface.co/renns/lookagain-8b)
 
 </div>
 
